@@ -1,4 +1,4 @@
-# react-flags-select
+# react-sats-country-flags
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
@@ -12,18 +12,18 @@ Live demo: [ekwonye-richard.github.io/react-flags-select/](https://ekwonye-richa
 ## Installation
 The package can be installed via NPM:
 ```
-npm install react-flags-select --save
+npm install react-sats-country-flags --save
 ```
-react-flags-select can be imported as follows
+react-sats-country-flags can be imported as follows
 
 ```javascript
-import ReactFlagsSelect from 'react-flags-select';
+import ReactFlagsSelect from 'react-sats-country-flags';
 
 //import css module
-import 'react-flags-select/css/react-flags-select.css';
+import 'react-sats-country-flags/css/react-flags-select.css';
 
 //OR import sass module
-import 'react-flags-select/scss/react-flags-select.scss';
+import 'react-sats-country-flags/scss/react-flags-select.scss';
 
 ```
 
@@ -33,7 +33,7 @@ import 'react-flags-select/scss/react-flags-select.scss';
     <ReactFlagsSelect />
 ```
 
-All country Codes: [Country Codes](https://github.com/ekwonye-richard/react-flags-select/blob/master/src/countries.js)
+All country Codes: [Country Codes](https://github.com/ekwonye-richard/react-sats-country-flags/blob/master/src/countries.js)
 
 ### Default Country
 
