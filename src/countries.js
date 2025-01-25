@@ -108,6 +108,7 @@ export default ({
     "KW": "Kuwait",
     "KG": "Kyrgyzstan",
     "LA": "Lao People's Democratic Republic",
+    "LN": "Labuan",
     "LV": "Latvia",
     "LB": "Lebanon",
     "LS": "Lesotho",
